@@ -1,5 +1,7 @@
 # Deauthenticate attack on a nearby WIFI
 
+Perform a [Wifi deauthentication attack](https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack). Use with caution and only for educatiuonal purposes ;)
+
 ## Requirements
 * Wifi network card with support for monitor mode
 
